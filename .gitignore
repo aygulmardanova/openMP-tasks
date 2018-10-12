@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Intellij Idea
+.idea/*
+*.iml
+
+# CMake
+cmake-build-*/
+
+# MAC OS
+.DS_Store
